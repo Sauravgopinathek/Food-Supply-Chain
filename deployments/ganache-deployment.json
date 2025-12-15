@@ -1,0 +1,9 @@
+{
+  "contractAddress": "0xe5d918f4777e95F4021Ed1Ef5CCCBB81eeC8Adc9",
+  "deployer": "0xe6e488ab008A0E128E872281b3CAb7A32Be0878b",
+  "network": "ganache",
+  "blockNumber": 5,
+  "timestamp": "2025-10-10T01:17:50.510Z",
+  "gasUsed": "2077540",
+  "deploymentCost": "0.00189189466545008"
+}

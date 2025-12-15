@@ -1,0 +1,9 @@
+{
+  "contractAddress": "0x93f76A924f778C16149e535D0D8aeCB64F65f622",
+  "deployer": "0x72507A3FA36D84af459B2B4b74010BDdbf977dFE",
+  "network": "sepolia",
+  "blockNumber": 9383245,
+  "timestamp": "2025-10-10T15:25:22.017Z",
+  "gasUsed": "2078116",
+  "deploymentCost": "0.00000311729868696"
+}
